@@ -39,5 +39,4 @@ public class Libro {
         this.prestado = false;
     }
     
-    
 }
